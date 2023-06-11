@@ -1,0 +1,57 @@
+.container{
+  position: relative;
+  left: 240px;
+  border: 15px solid grey;
+  width: 750px;
+  height: 1100px;
+}
+.first{
+    padding-left: 10px;
+    float: left;
+}
+.second{
+    position: relative;
+    top: -1040px;
+    left: 320px;
+}
+.Third{
+    float: right;
+    padding-right: 20px;
+    position: relative;
+    top: -1155px;
+}
+.center{
+    font-size: 13px;
+}
+.sign-left{
+    float: left;
+    font-size: 14px;
+    padding-left: 40px;
+}
+.sign-right{
+    float: right;
+    padding-right: 50px;
+    margin-top: 10px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+   position: relative;
+   top: 10px;
+   left: -10px;
+}
+ul,li{
+    padding-top: 10px;
+}
+#ff{
+    padding-left: 120px;
+    padding-top: 40px;
+    float: left;
+}
+#ft{
+    float: right;
+    padding-right: 100PX;
+ padding-top: 20px;
+    
+}
